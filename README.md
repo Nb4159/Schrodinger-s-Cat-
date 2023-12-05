@@ -1,2 +1,4 @@
 # Schrodinger-s-Cat-
-This is a code for implementing Schrodinger's cat using qiskit
+Schrodinger's cat is one of the most famous thought experiments in Quantum Mechanics named after Erwin Schrodinger. It is a thought experiment to determine whether a cat will survive in box contaning a radioactive atom and a vial of poisonous gas. in this, we put a cat in a box conatining a radioactive atom and a hammer, in the case that the atom decays, the vial will break and the gas will be released, thereby killing the cat. And the only time we interact with it is when we open the box to observe the outcome of the experiment. It was initially made to illusutrate counterintuitive results that quantum mechanics leads us to.
+You can find more info about this experiment here: https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat
+This is a code for implementing Schrodinger's cat using qiskit.
